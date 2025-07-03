@@ -8,7 +8,7 @@ mgmt:
 topology:
   kinds:
     ceos:
-      image: ceos-lab:latest
+      image: ceos:4_33_4M
   defaults:
     kind: ceos
   nodes:
